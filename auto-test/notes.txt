@@ -1,0 +1,24 @@
+payment testing requirements 
+
+1. Functional testing
+2. Integration testing 
+3. Security testing 
+
+using pytest, selenium, tox
+
+use UIPath for sample data generation
+
+register merchant
+psp 
+
+something like PayU Money
+
+Try out MangoPay API for card based testing streams     /MangoPay has been aborted
+
+Stripe sample test for payments
+
+
+study stripe webhooks
+
+
+ 
